@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/sunlands_test.dir/client.cc.o  -o sunlands_test  -L.  -L../base  -L../base/pb/lib/linux  -L/usr/lib64/mysql  -L../base/slog/lib -rdynamic -lpthread -lbase -lprotobuf-lite -lmysqlclient_r -lhiredis_vip -lcurl -lslog -lcrypto -lboost_system -lboost_thread -Wl,-rpath,.:../base:../base/pb/lib/linux:/usr/lib64/mysql:../base/slog/lib 
